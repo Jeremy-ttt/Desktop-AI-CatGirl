@@ -389,9 +389,9 @@ p, li { white-space: pre-wrap; }
     <widget class="QTextEdit" name="textEdit">
      <property name="geometry">
       <rect>
-       <x>20</x>
+       <x>30</x>
        <y>270</y>
-       <width>251</width>
+       <width>241</width>
        <height>51</height>
       </rect>
      </property>
