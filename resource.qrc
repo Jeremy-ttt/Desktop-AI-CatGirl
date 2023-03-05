@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="character">
+    <file>resources/images/转换.png</file>
+    <file>resources/images/托盘图标.png</file>
+    <file>resources/images/loading.gif</file>
+    <file>resources/images/最小化.png</file>
+    <file>resources/images/关闭.png</file>
+    <file>resources/images/发送.png</file>
+    <file>resources/images/铅笔.png</file>
+    <file>resources/images/解锁.png</file>
+    <file>resources/images/锁定.png</file>
+    <file>resources/images/人物1.png</file>
+    <file>resources/images/人物2.png</file>
+    <file>resources/images/人物3.png</file>
+    <file>resources/images/人物4.png</file>
+    <file>resources/images/人物5.png</file>
+    <file>resources/images/人物6.png</file>
+    <file>resources/images/人物7.png</file>
+    <file>resources/images/人物8.png</file>
+    <file>resources/images/人物9.png</file>
+    <file>resources/images/人物10.png</file>
+    <file>resources/images/人物11.png</file>
+  </qresource>
+  <qresource prefix="font">
+    <file>resources/fonts/yezigongchanghuajuanti.ttf</file>
+  </qresource>
+</RCC>
