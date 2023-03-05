@@ -12,6 +12,7 @@
 <a href="#demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#usage">Usage</a>
 </p>
 
+
 ## Demo
 目前有11个角色可以切换
 
@@ -30,16 +31,15 @@ $ cd Desktop-AI-CatGirl
 $ python3 -m pip install -r requirements.txt
 ```
 
-
-
-
 ## Usage
-###Config
+### Config
 配置`resources/config/config.json`中的**api_key**(你的Openai账号的api_key)和**base_prompt**(初始提示词)
-###Run
+### Run
 ```console
 $ python3 DesktopPet.py
 ```
+程序仅在托盘显示，右键可切换角色，更改透明度，关闭程序。
+
 ## 对话command
 ```
 !help - Display this message
