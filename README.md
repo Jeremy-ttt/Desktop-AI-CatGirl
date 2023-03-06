@@ -33,12 +33,13 @@ $ python3 -m pip install -r requirements.txt
 
 ## Usage
 ### Config
-配置`resources/config/config.json`中的**api_key**(你的Openai账号的api_key)和**base_prompt**(初始提示词)
+1.配置`config.json`中的**api_key**(你的Openai账号的api_key)和**base_prompt**(初始提示词)
+2.需要梯子
 ### Run
 ```console
 $ python3 DesktopPet.py
 ```
-程序仅在托盘显示，右键可切换角色，更改透明度，关闭程序。
+程序仅在托盘显示，托盘菜单可切换角色，更改透明度，关闭程序。
 
 ## 对话command
 ```
